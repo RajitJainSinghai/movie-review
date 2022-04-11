@@ -1,16 +1,16 @@
-## Moview Review
+# Movie_review
 
 ```
-Moview Review App, with a frontend built in React & Redux and a backend built in Django API.
+Forum App, with a frontend built in React & Redux and a backend built in Django API.
 ```
 
 ## Live Demo
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://frontend-moviewreview.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://movie-review-frontend1.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO](https://backend-moviewreview.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://movie-review-backend1.herokuapp.com/) here!!
 
 ## Tech used
 
@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://backend-moviewreview.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone https://github.com/Moviereviewproject/Moviereview.git
+git clone git@github.com:Tech-i-s/techis-wd-forum-django-react.git
 ```
 
 2. Backend setting
